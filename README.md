@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Biryo Byihuse - USSD & SMS Food Order & Delivery System
 
 A food ordering and delivery system designed for rural areas, utilizing USSD and SMS technologies for accessibility.
@@ -56,3 +57,6 @@ A food ordering and delivery system designed for rural areas, utilizing USSD and
 ## License
 
 MIT License 
+=======
+# Goup_22RP03130
+>>>>>>> 1bef00db0abd9b6073fd8d3410716cb4859fd274
